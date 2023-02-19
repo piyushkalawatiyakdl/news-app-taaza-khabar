@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Australia v West Indies - Cricket - BBC Sport",
+    "description": "Find out the in depth batting and bowling figures for Australia v West Indies in the Test Match Series on BBC Sport.",
+    "url": "http://www.bbc.co.uk/sport/cricket/scorecard/ECKO54099",
+    "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+    "publishedAt": "2022-12-09T06:07:21.7877103Z",
+    "content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr>\r\n<tr><th>Total</th><th>(96.0 overs)</th><th>359-for3wickets</th… [+2193 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "England bat first against Pakistan in second Test - radio & text",
+    "description": "Follow live text updates and BBC Test Match Special commentary from the opening day of the second Test between England and Pakistan at the Multan Cricket Stadium.",
+    "url": "http://www.bbc.co.uk/sport/live/cricket/62865927",
+    "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+    "publishedAt": "2022-12-09T05:07:28.2096551Z",
+    "content": "So three changes for Pakistan including a debut for leg spinner Abrar Ahmed. Faheem Ashraf and Zahid Mahmood also come in with Haris Rauf, Azhar Ali and Naseem Shah dropping out.\r\nEngland had already… [+545 chars]"
+    },
+    {
+    "source": {
+    "id": "news-com-au",
+    "name": "News.com.au"
+    },
+    "author": null,
+    "title": "‘This is not Test cricket’: Legends fuming",
+    "description": "Welcome to news.com.au&rsquo;s coverage of day two of the second Test between Australia and the West Indies.</p>",
+    "url": "https://www.news.com.au/sport/cricket/australia-vs-west-indies-2nd-test-day-2-live-windies-bowling-attack-slammed/news-story/fc49ac0e2279d4f03994dcbceb92b920",
+    "urlToImage": "https://content.api.news/v3/images/bin/0c028faa26f04f715c27f153cfbff20f",
+    "publishedAt": "2022-12-09T03:55:00Z",
+    "content": "Welcome to news.com.au’s coverage of day two of the second Test between Australia and the West Indies.\r\nAfter winning the toss at the Adelaide Oval, Australia had a dominant day with the bat as Marnu… [+2235 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
